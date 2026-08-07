@@ -80,8 +80,8 @@ Crawls a web app, maps its input forms, and tests them for SQL injection, correl
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AJno13th&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0E13&title_color=F2A93B&icon_color=F2A93B&text_color=ECE7DB" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJno13th&layout=compact&hide_border=true&langs_count=8&bg_color=0B0E13&title_color=F2A93B&text_color=ECE7DB" alt="top languages" />
+<img height="160" src="https://github-readme-stats-nu-mocha-82.vercel.app/api?username=AJno13th&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0E13&title_color=F2A93B&icon_color=F2A93B&text_color=ECE7DB" alt="stats" />
+<img height="160" src="https://github-readme-stats-nu-mocha-82.vercel.app/api/top-langs/?username=AJno13th&layout=compact&hide_border=true&langs_count=8&bg_color=0B0E13&title_color=F2A93B&text_color=ECE7DB" alt="top languages" />
 
 </div>
 
