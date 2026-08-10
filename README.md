@@ -33,7 +33,7 @@ Scripts that automate stages of a pentest and tag every action to its MITRE ATT&
 ![T1190](https://img.shields.io/badge/T1190-Exploit_Public--Facing_App-12171F?style=flat-square&labelColor=B67C2b)
 ![Python](https://img.shields.io/badge/Python-12171F?style=flat-square&logo=python&logoColor=F2A93B)
 
-**Automated Vulnerability Detection Platform** &nbsp;·&nbsp; [`view repo ↗`](https://github.com/AJno13th)
+**Automated Vulnerability Detection Platform** &nbsp;·&nbsp; [`view repo ↗`](https://github.com/AJno13th/SQLAJ)
 
 Crawls a web app, maps its input forms, and tests them for SQL injection, correlating each response back to an ATT&CK technique. A Flask/Dash dashboard reads the traffic logs and risk-scores what it finds, with rules tuned to keep false positives down.
 
